@@ -1,16 +1,5 @@
-# quiz_app
+how many question you can answer,?
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1663486995](https://user-images.githubusercontent.com/107408431/190895932-9ab8b8ce-4e58-4017-a0ba-c48d80f0742d.png)
+![Screenshot_1663487009](https://user-images.githubusercontent.com/107408431/190895938-a3bf345b-75c9-4b57-ac81-![Screenshot_1663487016](https://user-images.githubusercontent.com/107408431/190895943-4fecb209-7385-4a38-8310-998967ee1985.png)
+c7ae21540e8f.png)
